@@ -114,3 +114,14 @@ import datetime
 #
 # print(letter_is_vowel('a'))
 # print(letter_is_vowel('6futa'))
+
+# def var_test( ):
+#     b=64
+#     return b
+# print(var_test( ))
+
+# def var_test_():
+#    a = 6
+#    return a
+# print(var_test_())
+
