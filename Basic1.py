@@ -119,9 +119,17 @@ import datetime
 #     b=64
 #     return b
 # print(var_test( ))
-
+#
+# a = 22
 # def var_test_():
 #    a = 6
 #    return a
 # print(var_test_())
+#
+# xx = 66
+# if True :
+#     xx=25
+# print(xx)
 
+a b c = 2,5,0
+print(a b c)
