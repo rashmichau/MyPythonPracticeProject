@@ -131,5 +131,23 @@ import datetime
 #     xx=25
 # print(xx)
 
-a b c = 2,5,0
-print(a b c)
+#from random import randint
+#for i in range (10):
+#    print(randint(0,9),randint(0,9),randint(0,9),randint(0,9),randint(0,9),randint(0,9))
+
+import keyword
+print(keyword.kwlist)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
