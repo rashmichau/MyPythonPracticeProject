@@ -135,11 +135,19 @@ import datetime
 #for i in range (10):
 #    print(randint(0,9),randint(0,9),randint(0,9),randint(0,9),randint(0,9),randint(0,9))
 
-import keyword
-print(keyword.kwlist)
+#import keyword
+#print(keyword.kwlist)
 
+#a=True
+#print(a)
+#print(type(a))
+#print(id(a))
 
-
+#s= "rashmichaudhary"
+#out = s[0].upper()+ s[1:]
+#print(out)
+#o = s[ : len(s)-1] + s[-1].upper()
+#print(o)
 
 
 
