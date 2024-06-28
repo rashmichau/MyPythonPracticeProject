@@ -149,7 +149,15 @@ import datetime
 #o = s[ : len(s)-1] + s[-1].upper()
 #print(o)
 
+#x=15.6
+#y=15.6
+#print(x is y)
+#print (id(x))
+#print (id(y))
 
+#a= 258
+#b= 258
+#print(a is b)
 
 
 
