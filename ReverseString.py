@@ -1,0 +1,8 @@
+x= input("enter first digigt of code :")
+y= input("enter second digit of code :")
+print(int(x)+int(y))
+print(int(x)/int(y))
+print(int(x)*int(y))
+print(int(x)//int(y))
+print(int(x)%int(y))
+print(int(x)**2)
