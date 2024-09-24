@@ -12,6 +12,9 @@
 #     print(i+1)
 
 i=int(input('enter the number:'))
-while (i<3):
-    i=int(input('enter the num:'))
-    print(i)
+while (i<=3):
+    print("no is in size",i)
+    break
+else :
+    ("no is greater than 3")
+
