@@ -1,4 +1,4 @@
-#conditional statement questions
+ #conditional statement questions
 # age = int(input("Enter the age :"))
 # if (age <=13) :
 #     print("He/She is child ")
@@ -352,16 +352,14 @@
 
 #all prime num b/w 1and50
 # n = int(input("enter num :"))
-# count=0
 # for num in range(1,n+1):
 #     if num>1:
 #         for i in range(2,num):
 #             if num%i==0:
 #                 break
+#
 #         else:
-#             print(num)
-
-
+#                 print(num)
 
 
 

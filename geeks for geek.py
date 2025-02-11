@@ -300,11 +300,25 @@ print(sum)'''
 total=str.count("r")
 print(total)'''
 
+# import re
+# s=input("enter any mail id :")
+# match =re.fullmatch("\w[a-zA-Z0-9._]*@gmail.com", s)
+# if match != None:
+#     print("valid email address")
+# else :
+#     print("Invalid email address")
 
+# s=10.7+3.4j
+# print(s.real)
+# print(s.imag)
 
+# lst=[23,45,67,89,99,76]
+# ls1=(23,45,67,89,99,76)
+# print(max(lst))
+# print((lst,ls1))
+# print(lst.remove(45))
+# print(lst)
 
-
-
-
-
+# for i in range(5,0,-1):
+#     print(i)
 

@@ -447,7 +447,8 @@ print(lst1)'''
 # min =a if a<b else b
 # print("The min value is :",min)
 
-# a,b=[int(x) for x in (input("enter any two numbers :").split())]
+# a,b=[int(x) for x in (input("enter any two numbers with space :").split())]
+# print(a,b)
 # print("The product is :",a*b )
 
 # a,b,c=[float(x) for x in input("Enter any three float values :").split(',')]
@@ -588,17 +589,17 @@ print(sum)'''
 for i in range(n):
     for j in range(i+1):
         print("*",end=" ")
-    print()
+    print()'''
 
-n=int(input("Enter any num :"))
+'''n=int(input("Enter any num :"))
 for i in range(n):
     for j in range(n-i-1):
         print(end=" ")
     for j in range(i+1):
         print("*",end=" ")
-    print()
+    print()'''
 
-n=int(input("enter num of rows :"))
+'''n=int(input("enter num of rows :"))
 for i in range(n,0,-1):
     for j in range(n-i):
         print(end=" ")
@@ -1060,6 +1061,31 @@ def f1():
     print("Hello")
 print(dir())
 f1()'''
+
+# Random numbers
+'''from random import *
+for i in range(10):
+    print(random())
+for i in range(1,10):
+    print(uniform(1,10))
+for i in range(10):
+    print(randint(100000,999999))
+for i in range(10):
+    print(randrange(34,67))
+lst=["raam","shyam","radhey","seeta"]
+for i in range(10):
+    print(choice(lst))'''
+
+# Packages
+# import os
+# print(os.listdir())
+
+
+
+
+
+
+
 
 
 
